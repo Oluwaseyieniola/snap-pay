@@ -16,7 +16,9 @@
 
 ### Got some help from [P2P](https://github.com/mohamedtarrek95/Pay-Mobile-P2P-Money-Transfer-App-main?ref=flutterawesome.com)
 
-### Note: The server running this app has already been deployed to render.com, which means you can immediately clone this repo, run it and start using it (i.e The backend is already connected). Since every username on the app is unique, transfers are performed with usernames. Just enter the `@username` of the user and you can easily transfer funds
+
+### Made use of the already deployed server that was created by [P2P](https://github.com/mohamedtarrek95/Pay-Mobile-P2P-Money-Transfer-App-main?ref=flutterawesome.com)
+### Transactions are done with usernames
 
 #### After cloning don't forget to run:
 
